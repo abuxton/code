@@ -1,2 +1,3 @@
 # Dojo
-code learning repository, dump for general coding practices and learnings
+Code learning repository, dump for general coding practices and learning. ( hence Dojo )
+
