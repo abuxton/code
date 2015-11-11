@@ -1,0 +1,15 @@
+#https://github.com/github/gitignore/blob/master/Leiningen.gitignore
+/clojure*
+pom.xml
+pom.xml.asc
+*zip
+*jar
+/lib/
+/classes/
+/target/
+/checkouts/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
