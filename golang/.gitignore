@@ -9,7 +9,8 @@
 *.dll
 *.so
 *.dylib
-
+# glide.lock
+*.lock
 # Test binary, built with `go test -c`
 *.test
 
