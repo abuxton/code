@@ -1,7 +1,9 @@
 //Package hello comment line to name the package probably more useful for documenting intent!
 package hello
 
-//Hello a comment
+import "rsc.io/quote"
+
+//Hello world
 func Hello() string {
-	return "Hello, world."
+	return quote.Hello()
 }
